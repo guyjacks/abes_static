@@ -1,0 +1,6 @@
+/*******************************
+     User Global Variables
+*******************************/
+@primaryColor: @red;
+@red: #BE0000;
+@fontSize: 18px;
